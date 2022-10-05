@@ -1,0 +1,18 @@
+{
+  "name": "rio_backend_2",
+  "version": "1.0.0",
+  "main": "praktikan.controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "pg": "^8.8.0"
+  },
+  "description": ""
+}
